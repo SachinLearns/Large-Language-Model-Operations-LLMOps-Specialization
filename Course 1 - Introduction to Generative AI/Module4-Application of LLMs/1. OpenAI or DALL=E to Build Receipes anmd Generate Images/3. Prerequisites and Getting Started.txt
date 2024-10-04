@@ -1,0 +1,10 @@
+The following software needs to be installed:
+
+    OpenAI API Keys.
+
+
+Here are step-by-step instructions if needed -  
+
+
+How to get an OpenAI API Key: A Step-By-Step Guide - (leadhero.ai):
+https://leadhero.ai/how-to-get-an-openai-api-key-a-step-by-step-guide/
